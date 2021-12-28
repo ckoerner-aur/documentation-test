@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ReAX Documentation'
+copyright = '2022, Aurora Multimedia Corp'
+author = 'CK'
 
 release = '0.1'
 version = '0.1.0'
